@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/test.dir/tests/test.cpp.o CMakeFiles/test.dir/src/sort.cpp.o CMakeFiles/test.dir/src/utils.cpp.o -o test 
